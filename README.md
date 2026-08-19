@@ -25,7 +25,3 @@ Data cleaning and analysis of office employee data using Python and Pandas.
 
 ```bash
 python employee.py
-
-## how to debug
-
--run this code in Visual Studio Code and make sure install python and debug it
